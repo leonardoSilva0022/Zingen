@@ -46,6 +46,6 @@ A página está disponível em: [https://leonardosilva0022.github.io/Zingen/](ht
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Desenvolvedor
 
 Desenvolvido por **Leonardo Silva** © 2026
